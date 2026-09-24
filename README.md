@@ -94,9 +94,11 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
   ```js
   document.body.innerHTML = "<h1>¡Hola, " + nombre + "!</h1>";
   ```
-- Publica tu proyecto en el repositorio de GitHub y usa GitHub Pages para alojarlo. Sigue [esta guía](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site) para hacerlo.<br>
+  <br>
   [hola_pagina](00JSyEntorno/hola.html)<br><br>
   ![hola](imagenes/hola.png)
+- Publica tu proyecto en el repositorio de GitHub y usa GitHub Pages para alojarlo. Sigue [esta guía](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site) para hacerlo.<br>
+  https://davidsolis12.github.io/iesgrancapitan-opt-2daw-javascrip-y-su-entorno-de-trabajo-JS-desde-cero-en-navegador/
 
 ## parte 5: formulario HTML + JavaScript
 
