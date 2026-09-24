@@ -56,6 +56,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    nombre;
    ```
 
+   <br>
    ![consola](imagenes/consola.png)
 
 ## Parte 3: Tu primer archivo HTML + JavaScript
@@ -80,7 +81,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    </html>
    ```
 4. Desde VSCode abre el archivo `hola.html` en tu navegador.
-5. Observa el resultado en la consola del navegador.
+5. Observa el resultado en la consola del navegador.<br>
    ![hola_consola](imagenes/hola_consola.png)
 
 ## Parte 4: Experimenta
@@ -93,8 +94,8 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
   ```js
   document.body.innerHTML = "<h1>¡Hola, " + nombre + "!</h1>";
   ```
-- Publica tu proyecto en el repositorio de GitHub y usa GitHub Pages para alojarlo. Sigue [esta guía](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site) para hacerlo.
-  [hola](00JSyEntorno/hola.html)
+- Publica tu proyecto en el repositorio de GitHub y usa GitHub Pages para alojarlo. Sigue [esta guía](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site) para hacerlo.<br>
+  [hola_pagina](00JSyEntorno/hola.html)<br><br>
   ![hola](imagenes/hola.png)
 
 ## parte 5: formulario HTML + JavaScript
@@ -136,8 +137,8 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
        });
    });
    ```
-6. Desde VSCode abre `formulario.html` en tu navegador y prueba el formulario.
-   [formulario](00JSyEntorno/formulario.html)
+6. Desde VSCode abre `formulario.html` en tu navegador y prueba el formulario.<br>
+   [formulario](00JSyEntorno/formulario.html)<br><br>
    ![formulario](formulario.png)
 
 ## Parte 6: Preguntas de reflexión
